@@ -12,7 +12,6 @@ public class  Greeter {
 
   }
 
-  //TODO: Add javadoc comment
   /**
    *
    * @param someone
